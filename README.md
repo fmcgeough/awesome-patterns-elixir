@@ -34,3 +34,4 @@ on Pattern and Anti-patterns.
 - [sage](https://hexdocs.pm/sage/readme.html), an Elixir implementation of the Sagas pattern.
 - [commanded](https://hexdocs.pm/commanded/Commanded.html), CQRS/ES pattern
 - [breaker_box](https://hexdocs.pm/breaker_box/BreakerBox.html), implementation of the circuit breaker pattern
+- [throttling](https://hex.pm/packages/ex_sleeplock), allow concurrent throttling using a named lock
