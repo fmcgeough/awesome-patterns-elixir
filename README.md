@@ -26,7 +26,7 @@ on Pattern and Anti-patterns.
 
 ## Tools / Libraries
 
-- [Credo](https://hexdocs.pm/credo/overview.html). a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
-- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html),  DIscrepancy AnaLYZer for ERlang programs. Dialyzer is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
-- [Dialyxir](https://hexdocs.pm/dialyxir/readme.html) - a wrapper around dialyzer for the Elixir language
+- [Credo](https://hexdocs.pm/credo/overview.html), a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
+- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html), DIscrepancy AnaLYZer for ERlang programs. Dialyzer is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
+- [Dialyxir](https://hexdocs.pm/dialyxir/readme.html), a wrapper around dialyzer for the Elixir language
 - [Sage](https://hexdocs.pm/sage/readme.html), an Elixir implementation of the Sagas pattern.
