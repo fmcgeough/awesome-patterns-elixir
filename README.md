@@ -25,7 +25,7 @@ on Pattern and Anti-patterns.
 
 - [Typed Design Patterns for the Functional Era](https://arxiv.org/pdf/2307.07069)
 - [A Functional Pattern System for Object-Oriented Design](https://homepages.ecs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf)
-- [Sagas](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+- [Sagas (long lived transactions)](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 - [CQRS and Event Sourcing Case Study](https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf)
 
 ## Tools / Libraries
