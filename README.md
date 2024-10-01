@@ -28,7 +28,7 @@ on Pattern and Anti-patterns.
 - [Sagas (long lived transactions)](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 - [CQRS and Event Sourcing Case Study](https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf)
 
-## Design Patterns Tools / Libraries
+## Tools / Libraries - Design Patterns
 
 - [sage](https://hexdocs.pm/sage/readme.html), an Elixir implementation of the Sagas pattern.
 - [commanded](https://hexdocs.pm/commanded/Commanded.html), CQRS/ES pattern
