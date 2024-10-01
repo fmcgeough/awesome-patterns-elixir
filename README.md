@@ -21,7 +21,7 @@ on Pattern and Anti-patterns.
 - [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
 - [Circuit Breaker Pattern](https://martinfowler.com/bliki/CircuitBreaker.html?ref=wellarchitected)
 
-## Research/Papers 
+## Research Papers 
 
 - [Typed Design Patterns for the Functional Era](https://arxiv.org/pdf/2307.07069)
 - [A Functional Pattern System for Object-Oriented Design](https://homepages.ecs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf)
