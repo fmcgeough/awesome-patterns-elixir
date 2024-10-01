@@ -14,6 +14,7 @@ on Pattern and Anti-patterns.
 ## Videos 
 
 - [Gang of None - talk by José Valim](https://www.youtube.com/watch?v=agkXUp0hCW8)
+- [Typed Design Patterns for the Functional Era](https://www.youtube.com/watch?v=mB2ZhK8tB8Y)
 
 ## Web Pages 
 
