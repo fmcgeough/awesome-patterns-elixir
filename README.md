@@ -28,12 +28,15 @@ on Pattern and Anti-patterns.
 - [Sagas (long lived transactions)](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 - [CQRS and Event Sourcing Case Study](https://home.agh.edu.pl/~malawski/DebskiSzczepanik-CQRS-IEEE-Software.pdf)
 
-## Tools / Libraries
+## Design Patterns Tools / Libraries
 
-- [Credo](https://hexdocs.pm/credo/overview.html), a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
-- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html), DIscrepancy AnaLYZer for ERlang programs. Dialyzer is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
-- [Dialyxir](https://hexdocs.pm/dialyxir/readme.html), a wrapper around dialyzer for the Elixir language
 - [sage](https://hexdocs.pm/sage/readme.html), an Elixir implementation of the Sagas pattern.
 - [commanded](https://hexdocs.pm/commanded/Commanded.html), CQRS/ES pattern
 - [breaker_box](https://hexdocs.pm/breaker_box/BreakerBox.html), implementation of the circuit breaker pattern
 - [throttling](https://hex.pm/packages/ex_sleeplock), allow concurrent throttling using a named lock
+
+## Tools / Libraries - General 
+
+- [Credo](https://hexdocs.pm/credo/overview.html), a static code analysis tool for the Elixir language with a focus on teaching and code consistency.
+- [Dialyzer](https://www.erlang.org/doc/apps/dialyzer/dialyzer.html), DIscrepancy AnaLYZer for ERlang programs. Dialyzer is a static analysis tool that identifies software discrepancies, such as definite type errors, code that is unreachable because of programming errors, and unnecessary tests in single Erlang modules or an entire codebase.
+- [Dialyxir](https://hexdocs.pm/dialyxir/readme.html), a wrapper around dialyzer for the Elixir language
